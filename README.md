@@ -1,7 +1,7 @@
 # NCCU 2021 Data_Structure #
 
-分組名單
-(無)
+group list
+(none)
 
 # Lab #
 
@@ -9,9 +9,9 @@ lab1 0920 1.install java and Eclipse. 2.HW1:BMI *DEADLINE: 0930
 
 lab2
 
-# eclipse java ee ide install #
+# eclipse java se/ee ide install #
 
-先下載eclipse installer 
+first , install eclipse installer 
 
 https://www.eclipse.org/downloads/
 
@@ -23,10 +23,10 @@ https://www.eclipse.org/downloads/
 
 workspace不要選原本的
 
-# tomcat下載 #
+# tomcat download #
 
 https://tomcat.apache.org/download-80.cgi
 
-# git 安裝教學 #
+# git install Instruction #
 
 https://git-scm.com/book/zh-tw/v2/%E9%96%8B%E5%A7%8B-Git-%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8

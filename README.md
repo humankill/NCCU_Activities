@@ -11,17 +11,14 @@ lab2
 
 # eclipse java se/ee ide install #
 
-first , install eclipse installer 
+First , install eclipse installer 
 
 https://www.eclipse.org/downloads/
 
-還沒用到網頁的話可以先下載 Eclipse IDE for Java SE Developers 即可
+choose Eclipse IDE for Java SE Developers or Eclipse IDE for Java EE Developers
 
-之後要做網頁再選擇 Eclipse IDE for Java EE Developers
 
-安裝完後打開剛安裝完的這個eclipse
-
-workspace不要選原本的
+## workspace do not use default path (recommend)
 
 # tomcat download #
 

@@ -3,10 +3,6 @@
 分組名單
 (無)
 
-# tomcat下載 #
-
-https://tomcat.apache.org/download-80.cgi
-
 # eclipse java ee ide install #
 
 先下載eclipse installer 
@@ -20,6 +16,10 @@ https://www.eclipse.org/downloads/
 安裝完後打開剛安裝完的這個eclipse
 
 workspace不要選原本的
+
+# tomcat下載 #
+
+https://tomcat.apache.org/download-80.cgi
 
 # git 安裝教學 #
 

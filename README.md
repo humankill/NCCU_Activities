@@ -1,5 +1,7 @@
 # NCCU 2021 Data_Structure #
 
+Course: http://soslab.nccu.edu.tw/Courses.html
+
 group list
 (none)
 

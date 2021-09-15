@@ -5,7 +5,7 @@
 
 # Lab #
 
-lab1 0920 1.install java and Eclipse. 2.HW1:BMI
+lab1 0920 1.install java and Eclipse. 2.HW1:BMI *DEADLINE: 0930
 
 lab2
 

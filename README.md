@@ -15,10 +15,10 @@ First , install eclipse installer
 
 https://www.eclipse.org/downloads/
 
-choose Eclipse IDE for Java SE Developers or Eclipse IDE for Java EE Developers
+Choose Eclipse IDE for Java SE Developers or Eclipse IDE for Java EE Developers
 
 
-## workspace do not use default path (recommend)
+**workspace do not use default path (recommend)**
 
 # tomcat download #
 

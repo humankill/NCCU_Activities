@@ -7,6 +7,12 @@ group list
 
 # Weekly Lab #
 
+2021DSTA 
+
+MONDAY 12:00 - 2:00
+
+link：https://meet.google.com/ycd-tkhw-kjy
+
 lab1 0920 1.install java and Eclipse. 2.HW1:BMI *DEADLINE: 0930
 
 lab2

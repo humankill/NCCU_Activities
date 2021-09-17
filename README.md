@@ -11,7 +11,7 @@ group list
 
 MONDAY 12:00 - 2:00
 
-link：https://meet.google.com/ycd-tkhw-kjy
+TA link：https://meet.google.com/ycd-tkhw-kjy
 
 video：https://drive.google.com/drive/folders/1xtTuTc15vrzWLzl-kr5gV4Ub1tzsLp6J?usp=sharing  
 

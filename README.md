@@ -15,9 +15,11 @@ TA link：https://meet.google.com/ycd-tkhw-kjy
 
 video：https://drive.google.com/drive/folders/1xtTuTc15vrzWLzl-kr5gV4Ub1tzsLp6J?usp=sharing  
 
-lab1 0920 1.install java and Eclipse. 2.HW1:BMI *DEADLINE: 0930
+## lab1 ## 
 
-lab2
+0920 1.install java and Eclipse. 2.HW1:BMI *DEADLINE: 0930
+
+## lab2 ##
 
 # eclipse java se/ee ide install #
 

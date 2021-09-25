@@ -17,11 +17,11 @@ video：https://drive.google.com/drive/folders/1xtTuTc15vrzWLzl-kr5gV4Ub1tzsLp6J
 
 ## lab1 ## 
 
-0920 1.install java and Eclipse. 2.HW1:BMI *DEADLINE: 0930
+0927 1.install java and Eclipse. 2.HW1:BMI *DEADLINE: 0930
 
 ## lab2 ##
 
-0927 1.git install instruction 2.HW2: Generic Geometric Progression *DEADLINE: 1007
+1004 1.git install instruction 2.HW2: Generic Geometric Progression *DEADLINE: 1011
 
 # eclipse java se/ee ide install #
 

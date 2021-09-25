@@ -21,6 +21,8 @@ video：https://drive.google.com/drive/folders/1xtTuTc15vrzWLzl-kr5gV4Ub1tzsLp6J
 
 ## lab2 ##
 
+0927 1.git install instruction 2.HW2: Generic Geometric Progression *DEADLINE: 1007
+
 # eclipse java se/ee ide install #
 
 First , install eclipse installer 
@@ -32,7 +34,7 @@ Choose Eclipse IDE for Java SE Developers or Eclipse IDE for Java EE Developers
 
 **workspace do not use default path (recommend)**
 
-# tomcat download #
+# tomcat download (project)# 
 
 https://tomcat.apache.org/download-80.cgi
 

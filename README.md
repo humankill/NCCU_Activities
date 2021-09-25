@@ -34,9 +34,6 @@ Choose Eclipse IDE for Java SE Developers or Eclipse IDE for Java EE Developers
 
 **workspace do not use default path (recommend)**
 
-# tomcat download (project)# 
-
-https://tomcat.apache.org/download-80.cgi
 
 # git install Instruction #
 
@@ -44,3 +41,6 @@ https://git-scm.com/book/zh-tw/v2/%E9%96%8B%E5%A7%8B-Git-%E5%AE%89%E8%A3%9D%E6%9
 
 https://miahsuwork.medium.com/%E7%AC%AC%E4%BA%8C%E9%80%B1-git-%E6%9C%AC%E5%9C%B0%E7%AB%AF%E8%88%87%E9%81%A0%E7%AB%AF%E6%93%8D%E4%BD%9C-github-78eec4537179
 
+# tomcat download (project)# 
+
+https://tomcat.apache.org/download-80.cgi

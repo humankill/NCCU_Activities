@@ -2,8 +2,9 @@
 
 Course: http://soslab.nccu.edu.tw/Courses.html
 
-group list
-(none)
+group list :
+https://docs.google.com/spreadsheets/d/1HxcNRGk2FV-fHPSOyB0QO6h10R_jjEZEW1RXaK4jyvA/edit?usp=sharing
+
 
 # Weekly Lab #
 

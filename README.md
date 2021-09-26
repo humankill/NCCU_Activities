@@ -54,7 +54,7 @@ $ git remote add origin https://github.com/lina2360/2021DataStructure.git
 
 $ git pull origin master
 
-then you can refresh the data weekly to download HW from the website.
+then you can refresh the data weekly to download HW from the github.
 
 # tomcat download (project)# 
 

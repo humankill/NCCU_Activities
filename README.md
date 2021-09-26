@@ -45,6 +45,8 @@ https://miahsuwork.medium.com/%E7%AC%AC%E4%BA%8C%E9%80%B1-git-%E6%9C%AC%E5%9C%B0
 
 In your computer's folder ,use command under below :
 
+$ cd (your folder)
+
 $ git init
 
 $ git remote add origin https://github.com/lina2360/2021DataStructure.git

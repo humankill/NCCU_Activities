@@ -24,6 +24,10 @@ video：https://drive.google.com/drive/folders/1xtTuTc15vrzWLzl-kr5gV4Ub1tzsLp6J
 
 1004 1.HW2: Generic Geometric Progression *DEADLINE: 1011
 
+## lab3 ##
+
+1018 1.HW3: Count A Keyword in a Web Page!  *DEADLINE: 1025
+
 # eclipse java se/ee ide install #
 
 First , install eclipse installer 

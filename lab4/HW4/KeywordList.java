@@ -14,13 +14,13 @@ public class KeywordList {
 		//printKeywordList(lst) : you can check if elements are sorted 
 		for(int i=0; i<lst.size();i++){
 			Keyword k= lst.get(i);	
-			if(keyword.count <= k.count){
+			if(keyword.count <= k.count){//如果count比原本的小就要放前面,如果count相等就要比weight
 				if(keyword.count < k.count) {
 					lst.add(i,keyword);
 //					printKeywordList(lst);
 					return;
 				}
-				else if(keyword.count == k.count && keyword.weight <= k.weight) {
+				else if(keyword.count == k.count && keyword.weight <= k.weight) {//count相等,weight小的放前面
 					lst.add(i,keyword);
 //					printKeywordList(lst);
 					return;

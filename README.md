@@ -32,6 +32,18 @@ video：https://drive.google.com/drive/folders/1xtTuTc15vrzWLzl-kr5gV4Ub1tzsLp6J
 
 1025 1.HW4: Maintain an ordered keyword list  *DEADLINE: 1101
 
+## lab5 ##
+
+1101 1.HW5: Matching/Analyzing HTML Tags list  *DEADLINE: 1108
+
+## test ##
+
+1104 Prescreen on Java Programming Test
+
+## lab6 ##
+
+1108 1.HW6: Compute the score of a website  2.project noticed (eclipse EE,Tomcat,web,github link...) *DEADLINE: 1115 
+
 # eclipse java se/ee ide install #
 
 First , install eclipse installer 
@@ -65,5 +77,7 @@ $ git pull origin master
 then you can refresh the data weekly to download HW from the github.
 
 # tomcat download (project)# 
+
+https://rx1226.pixnet.net/blog/post/321352041
 
 https://tomcat.apache.org/download-80.cgi

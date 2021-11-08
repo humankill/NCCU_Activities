@@ -76,12 +76,32 @@ $ git pull origin master
 
 then you can refresh the data weekly to download HW from the github.
 
-# tomcat download (project)# 
 
+
+# web project #
+
+
+**1.javaEE(environment) and 2.tomcat(http,web) download**
 https://rx1226.pixnet.net/blog/post/321352041
 
+**1-1another installation for JAVA SE -> JAVA EE**
+https://www.itread01.com/p/1138445.html
+
+**1-2new web project for javaEE**
+https://www.itread01.com/content/1544581998.html
+
+**2-1tomcat**
 https://tomcat.apache.org/download-80.cgi
 
-# html/css #
+**2-2about install tomcat**
+https://pclevinblog.pixnet.net/blog/post/314562673-%5Bapache_tomcat%5D-tomcat-%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8
+
+**3.jsoup jar (web crawler)**
+
+https://jsoup.org/download
+
+**4.html/css(design)**
 
 https://www.w3schools.com/html/default.asp
+
+**5.**

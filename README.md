@@ -45,7 +45,7 @@ video：https://drive.google.com/drive/folders/1xtTuTc15vrzWLzl-kr5gV4Ub1tzsLp6J
 
 ## lab6 ##
 
-1115 1.HW6: Compute the score of a website   *DEADLINE: 1115 
+1115 1.HW6: Compute the score of a website   *DEADLINE: 1122 
 
 # eclipse java se/ee ide install #
 

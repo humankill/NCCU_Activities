@@ -40,9 +40,12 @@ video：https://drive.google.com/drive/folders/1xtTuTc15vrzWLzl-kr5gV4Ub1tzsLp6J
 
 1104 Prescreen on Java Programming Test
 
+## project noticed  ##
+1108 1.project noticed (eclipse EE,Tomcat,web,github link...)
+
 ## lab6 ##
 
-1108 1.HW6: Compute the score of a website  2.project noticed (eclipse EE,Tomcat,web,github link...) *DEADLINE: 1115 
+1115 1.HW6: Compute the score of a website   *DEADLINE: 1115 
 
 # eclipse java se/ee ide install #
 

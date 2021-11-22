@@ -47,9 +47,10 @@ video：https://drive.google.com/drive/folders/1xtTuTc15vrzWLzl-kr5gV4Ub1tzsLp6J
 
 1115 1.HW6: Compute the score of a website   *DEADLINE: 1122 
 
-## lab6 ##
+## lab7 ##
 
 1122 1.HW7: Compute the score of a website   *DEADLINE: 1129 
+https://docs.oracle.com/javase/6/docs/api/java/util/Comparator.html
 
 # eclipse java se/ee ide install #
 

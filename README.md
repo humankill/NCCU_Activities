@@ -62,6 +62,18 @@ https://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-
 
 1213 1.HW9: Find the most similar keyword!    *DEADLINE: 1220
 
+http://web.ntnu.edu.tw/~algo/Subsequence2.html
+
+<!-- ## lab10 ##
+
+1220 1.HW10: Use Google and get the links!    *DEADLINE: 1227
+
+## lab11 ##
+
+1227 1.HW11: Webrize BMI!  2.HW12:(optional)  *DEADLINE: 0103 -->
+
+## Project Demo on Jan. 6 ##
+
 
 # eclipse java se/ee ide install #
 

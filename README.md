@@ -72,7 +72,7 @@ http://web.ntnu.edu.tw/~algo/Subsequence2.html
 
 1227 1.HW11: Webrize BMI!  2.HW12:(optional)  *DEADLINE: 0103 -->
 
-## Project Demo on Jan. 6 ##
+<!-- ## Project Demo on Jan. 6 ## -->
 
 
 # eclipse java se/ee ide install #

@@ -71,9 +71,9 @@ http://web.ntnu.edu.tw/~algo/Subsequence2.html
 <!--
 ## lab11 ##
 
-1227 1.HW11: Webrize BMI!  2.HW12:(optional)  *DEADLINE: 0103 -->
+1227 1.HW11: Webrize BMI!  2.HW12:(optional)  *DEADLINE: 0103
 https://www.fooish.com/html/hyperlink-a-tag.html
-https://www.daconote.com/css-%E8%AA%9E%E6%B3%95%E6%95%99%E5%AD%B8/
+https://www.daconote.com/css-%E8%AA%9E%E6%B3%95%E6%95%99%E5%AD%B8/ -->
 
 <!-- ## Project Demo on Jan. 6 ## -->
 

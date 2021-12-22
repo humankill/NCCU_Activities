@@ -68,12 +68,12 @@ http://web.ntnu.edu.tw/~algo/Subsequence2.html
 
 1220 1.HW10: Use Google and get the links!    *DEADLINE: 1227
 
-<!--
+
 ## lab11 ##
 
 1227 1.HW11: Webrize BMI!  2.HW12:(optional)  *DEADLINE: 0103
 https://www.fooish.com/html/hyperlink-a-tag.html
-https://www.daconote.com/css-%E8%AA%9E%E6%B3%95%E6%95%99%E5%AD%B8/ -->
+https://www.daconote.com/css-%E8%AA%9E%E6%B3%95%E6%95%99%E5%AD%B8/
 
 <!-- ## Project Demo on Jan. 6 ## -->
 
@@ -137,5 +137,3 @@ https://jsoup.org/download
 **4.html/css(design)**
 
 https://www.w3schools.com/html/default.asp
-
-**5.**
